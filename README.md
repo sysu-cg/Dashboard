@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# CG项目
 
-You can use the [editor on GitHub](https://github.com/sysu-cg/Dashboard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 文档
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**命名规范**：用`-`连接编号和文档名，即`XX-XX-doc.md`，并且所有字母小写，例如`2-profile.md`
 
-### Markdown
+**文档链接**：在`index.md`中添加链接，网址为`https://github.com/sysu-cg/Dashboard`加上去掉`.md`的文档名，例如`https://github.com/sysu-cg/Dashboard/1-about`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 图片
 
-- Bulleted
-- List
+**存储路径**：在`imgs`文件夹中新建文件夹，名字与对应的文档相同，在该目录下存储文档引用的图片，例如在`README`文件夹中存储`README.md`引用的图片
 
-1. Numbered
-2. List
+**图片链接**：在文档中引用图片的链接为`https://github.com/sysu-cg/Dashboard/blob/master/imgs/README`加上图片名再加上`?raw=true`，例如`https://github.com/sysu-cg/Dashboard/blob/master/imgs/README/KANBAN.png?raw=true`
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## KANBAN
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sysu-cg/Dashboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**管理内容**：使用[**KANBAN**](<https://github.com/swsad/Dashboard/projects>)，小组成员每周为自己设定任务，并记录完成情况
 
-### Support or Contact
+**任务规范**：记录成员名和任务内容，例如
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![KANBAN](<https://github.com/swsad/Dashboard/blob/master/imgs/README/KANBAN.png?raw=true>)
+
