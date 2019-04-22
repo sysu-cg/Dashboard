@@ -4,7 +4,7 @@
 
 **命名规范**：用`-`连接编号和文档名，即`XX-XX-doc.md`，并且所有字母小写，例如`2-profile.md`
 
-**文档链接**：在`index.md`中添加链接，网址为`https://github.com/sysu-cg/Dashboard`加上去掉`.md`的文档名，例如`https://github.com/sysu-cg/Dashboard/1-about`
+**文档链接**：在`index.md`中添加链接，网址为`https://sysu-cg.github.io/Dashboard`加上去掉`.md`的文档名，例如`https://sysu-cg.github.io/Dashboard/1-about`
 
 
 
