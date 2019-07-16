@@ -10,11 +10,11 @@
 
 雪人快跑是一款沙盒生存游戏。在阳光的照射下，雪人会不断融化损失雪量，当雪量见底时游戏结束。雪量如下
 
-![snow](./image/snow.png)
+![snow](https://github.com/sysu-cg/Dashboard/raw/master/FinalProject_v0/bin/image/snow.png)
 
 玩家操控雪人探索场景，通过收集冰晶来回复自身的雪量。冰晶如下
 
-![ice](./image/ice.png)
+![ice](https://github.com/sysu-cg/Dashboard/raw/master/FinalProject_v0/bin/image/ice.png)
 
 随着昼夜变换，雪人存活三天后将迎来极夜，玩家获得游戏胜利。
 
@@ -24,7 +24,7 @@
 
 鼠标移动进行视角变换，键盘按键【W】【S】【A】【D】控制雪人前后左右移动，空格键为跳跃。雪人遇到物体会被阻碍，吃到冰晶可以回复雪量，跳跃可以爬到台阶或者石头上。游戏中的菜单栏如下
 
-![Menu](./image/Menu.png)
+![menu](https://github.com/sysu-cg/Dashboard/raw/master/FinalProject_v0/bin/image/menu.png)
 
 菜单栏可以设置六个属性，其中前五个属性可以通过键盘按键【1】【2】【3】【4】【5】切换设置，最后一个属性需要鼠标拖动设置。六个属性的功能如下
 
